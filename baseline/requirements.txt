@@ -1,0 +1,8 @@
+# for baseline
+opencv-python
+pycocotools
+imgaug
+einops
+fvcore
+transformers
+timm

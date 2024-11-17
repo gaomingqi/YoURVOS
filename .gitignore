@@ -1,0 +1,17 @@
+__pycache__/
+build/
+dist/
+MultiScaleDeformableAttention.egg-info/
+
+.vscode/
+
+# mute debug settings
+debug/
+eva/
+
+# mute ablation settings
+ablations/
+*.csv
+
+# mute evaluateion / inference
+output/
