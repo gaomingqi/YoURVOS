@@ -250,9 +250,9 @@ python inference_yourvos.py \
   --backbone resnet50 \
   --yourvos_path [path to YoURVOS]
 ```
-Checkpoint (Anonymous link on Google Drive): [omformer_r50.pth](https://drive.google.com/drive/folders/1uK6TXXr-zB-YXyq3gIKhpS311390wy6N?usp=share_link)
+Checkpoint (on Hugging Face 🤗): [omformer_r50.pth](https://huggingface.co/gaomingqi/OMFormer)
 
-YoURVOS test videos (Anonymous link on Google Drive): [YoURVOS](https://drive.google.com/drive/folders/1uK6TXXr-zB-YXyq3gIKhpS311390wy6N?usp=share_link)
+YoURVOS test videos (on Hugging Face 🤗): [YoURVOS](https://huggingface.co/datasets/gaomingqi/YoURVOS)
 
 ### Evaluate
 ```bash
